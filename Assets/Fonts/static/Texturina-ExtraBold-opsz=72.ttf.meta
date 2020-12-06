@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: dfb95637055da0848bde0683fa1a01b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Texturina 72pt
+  fontNames:
+  - Texturina 72pt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ab9572019bb1e074292f17dd1242c62a, type: 3}
+  - {fileID: 12800000, guid: 89ef9052fd4d57e43b6a3ffc597273b7, type: 3}
+  - {fileID: 12800000, guid: edb566721e1349a489e0512d2bbeafbb, type: 3}
+  - {fileID: 12800000, guid: 4f004f039c8d9af43aabadc4932becd1, type: 3}
+  - {fileID: 12800000, guid: 1618fbc3c2b041d4f9cfa181394cd998, type: 3}
+  - {fileID: 12800000, guid: 42861f750d026484db5a49f08b6cb5e2, type: 3}
+  - {fileID: 12800000, guid: fea90485069418a43a6a2e9edc0b3558, type: 3}
+  - {fileID: 12800000, guid: 4da68b16a8009d448baa73ddfd339abc, type: 3}
+  - {fileID: 12800000, guid: 14f511f603a72b54f9b20270cefced14, type: 3}
+  - {fileID: 12800000, guid: c072965756b8ad04084dd6e887808e1e, type: 3}
+  - {fileID: 12800000, guid: bd1ab4e7fe73c674e980eeb9dc57fec0, type: 3}
+  - {fileID: 12800000, guid: e36967586319ab84e81827f8a8915e1b, type: 3}
+  - {fileID: 12800000, guid: 589c604a11f364046b7f9a238c45d598, type: 3}
+  - {fileID: 12800000, guid: b135a60bc9fda2342b8c1800d8cf3029, type: 3}
+  - {fileID: 12800000, guid: 44c0cc3bb15dab649b38e5a3cc70ce84, type: 3}
+  - {fileID: 12800000, guid: feae6e2d4a4b8844fa9d12ae6c1dab58, type: 3}
+  - {fileID: 12800000, guid: f3d7fecff1c266f4c96632a0b5fdc331, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
